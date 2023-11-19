@@ -2,123 +2,183 @@
   "cartas": [
     {
       "id": 1,
-      "titulo": "Vai quem foi o último a terminar um livro",
-      "cor": "verde",
-      "imagem": ""
+      "title": "The tallest person goes next",
+      "color": "verde",
+      "image": ""
     },
     {
       "id": 2,
-      "titulo": "Vai quem tem o maior dedo mindinho",
-      "cor": "cinza",
-      "imagem": ""
+      "title": "The person with the longest hair goes next",
+      "color": "cinza",
+      "image": ""
     },
     {
       "id": 3,
-      "titulo": "Vai quem foi o último a ir ao banheiro",
-      "cor": "bege",
-      "imagem": ""
+      "title": "The person with the most colorful socks goes next",
+      "color": "bege",
+      "image": ""
     },
     {
       "id": 4,
-      "titulo": "Vai quem for o próximo a fazer aniversário",
-      "cor": "rosa",
-      "imagem": ""
+      "title": "Whoever has the most unread messages in their phone goes next",
+      "color": "rosa",
+      "image": ""
     },
     {
       "id": 5,
-      "titulo": "Vai quem tem a maior cicatriz",
-      "cor": "lilas",
-      "imagem": ""
+      "title": "The person with the most creative dance move goes next",
+      "color": "lilas",
+      "image": ""
     },
     {
       "id": 6,
-      "titulo": "Vai quem tem o cabelo mais comprido",
-      "cor": "azul",
-      "imagem": ""
+      "title": "The one who can recite the alphabet backward the fastest goes next",
+      "color": "azul",
+      "image": ""
     },
     {
       "id": 7,
-      "titulo": "Vai quem tem menos bateria no celular",
-      "cor": "marrom",
-      "imagem": ""
+      "title": "Whoever can do the best animal impression goes next",
+      "color": "marrom",
+      "image": ""
     },
     {
       "id": 8,
-      "titulo": "Vai quem tem o nome completo com menos letras",
-      "cor": "amarelo",
-      "imagem": ""
+      "title": "The person with the most coins in their pocket goes next",
+      "color": "amarelo",
+      "image": ""
     },
     {
       "id": 9,
-      "titulo": "Vai quem tem mais seguidores no instagram",
-      "cor": "azul",
-      "imagem": ""
+      "title": "The one who can touch their toes without bending their knees goes next",
+      "color": "azul",
+      "image": ""
     },
     {
       "id": 10,
-      "titulo": "Vai quem fizer o melhor truque de mágica",
-      "cor": "roxo",
-      "imagem": ""
+      "title": "The person who can hold their breath the longest goes next",
+      "color": "roxo",
+      "image": ""
     },
     {
       "id": 11,
-      "titulo": "Vai quem tem mais tatuagens",
-      "cor": "cinza",
-      "imagem": ""
+      "title": "The person with the funniest joke goes next",
+      "color": "cinza",
+      "image": ""
     },
     {
       "id": 12,
-      "titulo": "Vai quem tem a maior tatuagem",
-      "cor": "verde",
-      "imagem": ""
+      "title": "Whoever has the most keys on their keychain goes next",
+      "color": "verde",
+      "image": ""
     },
     {
       "id": 13,
-      "titulo": "Vai quem calça o maior número",
-      "cor": "lilás",
-      "imagem": ""
+      "title": "The person with the most unusual item in their bag or pocket goes next",
+      "color": "lilás",
+      "image": ""
     },
     {
       "id": 14,
-      "titulo": "Vai quem foi o último a ir à academia",
-      "cor": "azul",
-      "imagem": ""
+      "title": "The person who can type the fastest on a smartphone goes next",
+      "color": "azul",
+      "image": ""
     },
     {
       "id": 15,
-      "titulo": "Vai quem tem mais irmãos",
-      "cor": "amarelo",
-      "imagem": ""
+      "title": "Whoever has the most apps on their home screen goes next",
+      "color": "amarelo",
+      "image": ""
     },
     {
       "id": 16,
-      "titulo": "Vai quem tem mais primos",
-      "cor": "verde",
-      "imagem": ""
+      "title": "The person who can do the best impersonation of a celebrity goes next",
+      "color": "verde",
+      "image": ""
     },
     {
       "id": 17,
-      "titulo": "Vai quem tem mais moedas no bolso",
-      "cor": "rosa",
-      "imagem": ""
+      "title": "The one who can balance on one foot the longest goes next",
+      "color": "rosa",
+      "image": ""
     },
     {
       "id": 18,
-      "titulo": "Vai quem pula mais alto",
-      "cor": "verde",
-      "imagem": ""
+      "title": "Whoever can do the best magic trick goes next",
+      "color": "verde",
+      "image": ""
     },
     {
       "id": 19,
-      "titulo": "Vai quem fizer a melhor imitação",
-      "cor": "amarelo",
-      "imagem": ""
+      "title": "Whoever has the most interesting fact about themselves goes next",
+      "color": "amarelo",
+      "image": ""
     },
     {
       "id": 20,
-      "titulo": "Vai quem tem mais jogos de tabuleiro",
-      "cor": "vermelho",
-      "imagem": ""
+      "title": "The one who can draw the best doodle in one minute goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 21,
+      "title": "Whoever has the most unread emails goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 22,
+      "title": "The person with the most exotic travel destination goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 23,
+      "title": "The person who can solve a Rubik's Cube the fastest goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 24,
+      "title": "The one with the most interesting childhood nickname goes next.",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 25,
+      "title": "The one who can do the best impersonation of a famous movie character goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 26,
+      "title": "The person with the most interesting hidden talent goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 27,
+      "title": "The person with the most unusual hobby goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 28,
+      "title": "The person with the most creative handshake goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 29,
+      "title": "Whoever can recite the most digits of pi goes next",
+      "color": "vermelho",
+      "image": ""
+    },
+    {
+      "id": 30,
+      "title": "The one who can do the best card trick goes next",
+      "color": "vermelho",
+      "image": ""
     }
   ]
 }

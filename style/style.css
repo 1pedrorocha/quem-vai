@@ -1,0 +1,10 @@
+:root {
+  --background-color: #5b6571;
+}
+
+body {
+  background-color: var(--background-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
