@@ -1,0 +1,124 @@
+{
+  "cartas": [
+    {
+      "id": 1,
+      "titulo": "Vai quem foi o último a terminar um livro",
+      "cor": "verde",
+      "imagem": ""
+    },
+    {
+      "id": 2,
+      "titulo": "Vai quem tem o maior dedo mindinho",
+      "cor": "cinza",
+      "imagem": ""
+    },
+    {
+      "id": 3,
+      "titulo": "Vai quem foi o último a ir ao banheiro",
+      "cor": "bege",
+      "imagem": ""
+    },
+    {
+      "id": 4,
+      "titulo": "Vai quem for o próximo a fazer aniversário",
+      "cor": "rosa",
+      "imagem": ""
+    },
+    {
+      "id": 5,
+      "titulo": "Vai quem tem a maior cicatriz",
+      "cor": "lilas",
+      "imagem": ""
+    },
+    {
+      "id": 6,
+      "titulo": "Vai quem tem o cabelo mais comprido",
+      "cor": "azul",
+      "imagem": ""
+    },
+    {
+      "id": 7,
+      "titulo": "Vai quem tem menos bateria no celular",
+      "cor": "marrom",
+      "imagem": ""
+    },
+    {
+      "id": 8,
+      "titulo": "Vai quem tem o nome completo com menos letras",
+      "cor": "amarelo",
+      "imagem": ""
+    },
+    {
+      "id": 9,
+      "titulo": "Vai quem tem mais seguidores no instagram",
+      "cor": "azul",
+      "imagem": ""
+    },
+    {
+      "id": 10,
+      "titulo": "Vai quem fizer o melhor truque de mágica",
+      "cor": "roxo",
+      "imagem": ""
+    },
+    {
+      "id": 11,
+      "titulo": "Vai quem tem mais tatuagens",
+      "cor": "cinza",
+      "imagem": ""
+    },
+    {
+      "id": 12,
+      "titulo": "Vai quem tem a maior tatuagem",
+      "cor": "verde",
+      "imagem": ""
+    },
+    {
+      "id": 13,
+      "titulo": "Vai quem calça o maior número",
+      "cor": "lilás",
+      "imagem": ""
+    },
+    {
+      "id": 14,
+      "titulo": "Vai quem foi o último a ir à academia",
+      "cor": "azul",
+      "imagem": ""
+    },
+    {
+      "id": 15,
+      "titulo": "Vai quem tem mais irmãos",
+      "cor": "amarelo",
+      "imagem": ""
+    },
+    {
+      "id": 16,
+      "titulo": "Vai quem tem mais primos",
+      "cor": "verde",
+      "imagem": ""
+    },
+    {
+      "id": 17,
+      "titulo": "Vai quem tem mais moedas no bolso",
+      "cor": "rosa",
+      "imagem": ""
+    },
+    {
+      "id": 18,
+      "titulo": "Vai quem pula mais alto",
+      "cor": "verde",
+      "imagem": ""
+    },
+    {
+      "id": 19,
+      "titulo": "Vai quem fizer a melhor imitação",
+      "cor": "amarelo",
+      "imagem": ""
+    },
+    {
+      "id": 20,
+      "titulo": "Vai quem tem mais jogos de tabuleiro",
+      "cor": "vermelho",
+      "imagem": ""
+    }
+  ]
+}
