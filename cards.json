@@ -1,183 +1,183 @@
 {
-  "cartas": [
+  "cards": [
     {
       "id": 1,
       "title": "The tallest person goes next",
-      "color": "verde",
+      "color": 1,
       "image": ""
     },
     {
       "id": 2,
       "title": "The person with the longest hair goes next",
-      "color": "cinza",
+      "color": 2,
       "image": ""
     },
     {
       "id": 3,
       "title": "The person with the most colorful socks goes next",
-      "color": "bege",
+      "color": 3,
       "image": ""
     },
     {
       "id": 4,
       "title": "Whoever has the most unread messages in their phone goes next",
-      "color": "rosa",
+      "color": 4,
       "image": ""
     },
     {
       "id": 5,
       "title": "The person with the most creative dance move goes next",
-      "color": "lilas",
+      "color": 5,
       "image": ""
     },
     {
       "id": 6,
       "title": "The one who can recite the alphabet backward the fastest goes next",
-      "color": "azul",
+      "color": 6,
       "image": ""
     },
     {
       "id": 7,
       "title": "Whoever can do the best animal impression goes next",
-      "color": "marrom",
+      "color": 1,
       "image": ""
     },
     {
       "id": 8,
       "title": "The person with the most coins in their pocket goes next",
-      "color": "amarelo",
+      "color": 2,
       "image": ""
     },
     {
       "id": 9,
       "title": "The one who can touch their toes without bending their knees goes next",
-      "color": "azul",
+      "color": 3,
       "image": ""
     },
     {
       "id": 10,
       "title": "The person who can hold their breath the longest goes next",
-      "color": "roxo",
+      "color": 4,
       "image": ""
     },
     {
       "id": 11,
       "title": "The person with the funniest joke goes next",
-      "color": "cinza",
+      "color": 5,
       "image": ""
     },
     {
       "id": 12,
       "title": "Whoever has the most keys on their keychain goes next",
-      "color": "verde",
+      "color": 6,
       "image": ""
     },
     {
       "id": 13,
       "title": "The person with the most unusual item in their bag or pocket goes next",
-      "color": "lilás",
+      "color": 1,
       "image": ""
     },
     {
       "id": 14,
       "title": "The person who can type the fastest on a smartphone goes next",
-      "color": "azul",
+      "color": 2,
       "image": ""
     },
     {
       "id": 15,
       "title": "Whoever has the most apps on their home screen goes next",
-      "color": "amarelo",
+      "color": 3,
       "image": ""
     },
     {
       "id": 16,
       "title": "The person who can do the best impersonation of a celebrity goes next",
-      "color": "verde",
+      "color": 4,
       "image": ""
     },
     {
       "id": 17,
       "title": "The one who can balance on one foot the longest goes next",
-      "color": "rosa",
+      "color": 5,
       "image": ""
     },
     {
       "id": 18,
       "title": "Whoever can do the best magic trick goes next",
-      "color": "verde",
+      "color": 6,
       "image": ""
     },
     {
       "id": 19,
       "title": "Whoever has the most interesting fact about themselves goes next",
-      "color": "amarelo",
+      "color": 1,
       "image": ""
     },
     {
       "id": 20,
       "title": "The one who can draw the best doodle in one minute goes next",
-      "color": "vermelho",
+      "color": 2,
       "image": ""
     },
     {
       "id": 21,
       "title": "Whoever has the most unread emails goes next",
-      "color": "vermelho",
+      "color": 3,
       "image": ""
     },
     {
       "id": 22,
       "title": "The person with the most exotic travel destination goes next",
-      "color": "vermelho",
+      "color": 4,
       "image": ""
     },
     {
       "id": 23,
       "title": "The person who can solve a Rubik's Cube the fastest goes next",
-      "color": "vermelho",
+      "color": 5,
       "image": ""
     },
     {
       "id": 24,
       "title": "The one with the most interesting childhood nickname goes next.",
-      "color": "vermelho",
+      "color": 6,
       "image": ""
     },
     {
       "id": 25,
       "title": "The one who can do the best impersonation of a famous movie character goes next",
-      "color": "vermelho",
+      "color": 1,
       "image": ""
     },
     {
       "id": 26,
       "title": "The person with the most interesting hidden talent goes next",
-      "color": "vermelho",
+      "color": 2,
       "image": ""
     },
     {
       "id": 27,
       "title": "The person with the most unusual hobby goes next",
-      "color": "vermelho",
+      "color": 3,
       "image": ""
     },
     {
       "id": 28,
       "title": "The person with the most creative handshake goes next",
-      "color": "vermelho",
+      "color": 4,
       "image": ""
     },
     {
       "id": 29,
       "title": "Whoever can recite the most digits of pi goes next",
-      "color": "vermelho",
+      "color": 5,
       "image": ""
     },
     {
       "id": 30,
       "title": "The one who can do the best card trick goes next",
-      "color": "vermelho",
+      "color": 6,
       "image": ""
     }
   ]
